@@ -1,9 +1,9 @@
-[
-  {
-    id: '/#oiu034',
-    name: ''
-  }
-];
+// [
+//   {
+//     id: '/#oiu034',
+//     name: ''
+//   }
+// ];
 
 //addUser(id, name, room)
 //removeUser(id)
